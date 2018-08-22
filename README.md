@@ -9,5 +9,7 @@ In the second attempt, ConvNets are used, which give **99.14% accuracy** on test
   
   The files are created in Google Colab. Link is included.
   
+  This is my first repository on Github. Comments and suggestion are welcome :)
+  
   Author: Raahat Gupta
   Date: 22/08/2018
