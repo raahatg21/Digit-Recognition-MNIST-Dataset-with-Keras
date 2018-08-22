@@ -7,5 +7,7 @@ In the second attempt, ConvNets are used, which give **99.14% accuracy** on test
 
   All implementations are made using **Keras**. This example was inspired by the book **Deep Learning with Python** written by Keras author Francois Chollet.
   
+  The files are created in Google Colab. Link is included.
+  
   Author: Raahat Gupta
   Date: 22/08/2018
