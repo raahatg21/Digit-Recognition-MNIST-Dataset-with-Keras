@@ -6,3 +6,6 @@
 In the second attempt, ConvNets are used, which give **99.14% accuracy** on test set (20 epochs). Dropout is used here to overcome overfitting.
 
   All implementations are made using **Keras**. This example was inspired by the book **Deep Learning with Python** written by Keras author Francois Chollet.
+  
+  Author: Raahat Gupta
+  Date: 22/08/2018
