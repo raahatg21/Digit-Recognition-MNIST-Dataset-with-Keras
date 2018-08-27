@@ -9,7 +9,7 @@ In the second attempt (MNIST_9914.ipynb), ConvNets are used, which give **99.14%
   
   The files are created in Google Colab. Link is included.
   
-  This is my first repository on Github. Comments and suggestion are welcome :)
+  This is my first repository on Github. Comments and Suggestions are welcome :)
   
   Author: Raahat Gupta
   Date: 22/08/2018
